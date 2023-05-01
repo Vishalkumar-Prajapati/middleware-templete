@@ -1,0 +1,31 @@
+There are many types of node.
+JS middleware,
+such as application-level
+, router-level
+, built-in,
+error-handling,
+and third-party middleware.
+
+In Node.js, middleware refers to functions that have access to the request and response objects
+, and the next middleware function in the application’s request-response cycle1. These functions
+can perform tasks such as logging requests, parsing request bodies, adding response headers, and 
+handling errors1. Middleware comes in the middle of the request and response cycle of the node.js execution2. 
+It also provides access to many functions like request and response objects with the Next function of the cycle2
+
+
+Is REST API a middleware?
+The API (Application Programming Interface) can be provided by most middleware.
+It can be SOAP but generally, REST services. These two words are quite different
+in meaning. API refers to callable services, while middleware refers to the product
+that does the integration work in the integration ecosystem.
+
+
+
+Middleware simplifies software development
+It controls connections between application components
+No doubt, it is a cost-effective tool for managing multi-cloud resources.
+It plays a crucial role in load balancing, concurrent processing, and transaction management.
+With middleware, you can make secured access to back-end resources such as storage, databases, etc.
+It supports authentication functionalities on a greater scale
+You can enhance rendering performance for client-side significantly
+By using middleware, you can easily set HTTP headers
