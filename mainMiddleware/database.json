@@ -5,6 +5,18 @@
             "fullName": "Vishal Prajapati",
             "email": "prajapati@gmail.com",
             "phoneNumber": "9510595866"
+        },
+        {
+            "userName": "Dhyey",
+            "fullName": "Dhyey Patel",
+            "email": "patel@gmail.com",
+            "phoneNumber": "9510595866"
+        },
+        {
+            "userName": "Het",
+            "fullName": "Het Patel",
+            "email": "het@gmail.com",
+            "phoneNumber": "9510595866"
         }
     ]
 }
